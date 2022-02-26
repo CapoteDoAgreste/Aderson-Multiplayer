@@ -1,0 +1,1 @@
+draw_text(32,672,"Por: Capote e Soin");

@@ -1,0 +1,9 @@
+dia = 1;
+count = 0;
+set_count = 0;
+set_game = 0;
+xx = 1600;
+yy = 3104;
+jose_seek = 0;
+dia02_event = 0
+amigos = 0;
